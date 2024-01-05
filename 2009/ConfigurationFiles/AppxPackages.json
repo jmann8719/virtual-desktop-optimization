@@ -19,7 +19,7 @@
   },
   {
     "AppxPackage": "Microsoft.GamingApp",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/xbox/9mv0b5hzvk9z",
     "Description": "Xbox app"
   },
@@ -37,7 +37,7 @@
   },
   {
     "AppxPackage": "Microsoft.MicrosoftOfficeHub",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/office/9wzdncrd29v9",
     "Description": "Office UWP app suite"
   },
@@ -49,7 +49,7 @@
   },
   {
     "AppxPackage": "Microsoft.MicrosoftSolitaireCollection",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/microsoft-solitaire-collection/9wzdncrfhwd2",
     "Description": "Solitaire suite of games"
   },
@@ -85,7 +85,7 @@
   },
   {
     "AppxPackage": "Microsoft.SkypeApp",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/skype/9wzdncrfj364",
     "Description": "Instant message, voice or video call app"
   },
@@ -157,31 +157,31 @@
   },
   {
     "AppxPackage": "Microsoft.Xbox.TCUI",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://docs.microsoft.com/en-us/gaming/xbox-live/features/general/tcui/live-tcui-overview",
     "Description": "XBox Title Callable UI (TCUI) enables your game code to call pre-defined user interface displays"
   },
   {
     "AppxPackage": "Microsoft.XboxGameOverlay",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/xbox-game-bar/9nzkpstsnw4p",
     "Description": "Xbox Game Bar extensible overlay"
   },
   {
     "AppxPackage": "Microsoft.XboxGamingOverlay",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/xbox-game-bar/9nzkpstsnw4p",
     "Description": "Xbox Game Bar extensible overlay"
   },
   {
     "AppxPackage": "Microsoft.XboxIdentityProvider",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/xbox-identity-provider/9wzdncrd1hkw",
     "Description": "A system app that enables PC games to connect to Xbox Live."
   },
   {
     "AppxPackage": "Microsoft.XboxSpeechToTextOverlay",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://support.xbox.com/help/account-profile/accessibility/use-game-chat-transcription",
     "Description": "Xbox game transcription overlay"
   },
@@ -199,13 +199,13 @@
   },
   {
     "AppxPackage": "Microsoft.ZuneVideo",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/en-us/p/movies-tv/9wzdncrfj3p2",
     "Description": "Movies and TV app"
   },
   {
     "AppxPackage": "Microsoft.XboxApp",
-    "VDIState": "Unchanged",
+    "VDIState": "Disabled",
     "URL": "https://www.microsoft.com/store/apps/9wzdncrfjbd8",
     "Description": "Xbox 'Console Companion' app (games, friends, etc.)"
   },
