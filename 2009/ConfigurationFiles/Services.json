@@ -18,12 +18,12 @@
   },
   {
     "Name": "DiagSvc",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "Description": "Diagnostic Execution Service"
   },
   {
     "Name": "DPS",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "URL": "https://docs.microsoft.com/en-us/uwp/api/Windows.System.Diagnostics?view=winrt-19041",
     "Description": "The Diagnostic Policy Service enables problem detection, troubleshooting and resolution for Windows components. If this service is stopped, diagnostics will no longer function."
   },
@@ -41,13 +41,13 @@
   },
   {
     "Name": "lfsvc",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "URL": "https://docs.microsoft.com/en-us/uwp/api/Windows.Devices.Geolocation?view=winrt-19041",
     "Description": "Geolocation Service. This service monitors the current location of the system and manages geofences (a geographical location with associated events). If you turn off this service, applications will be unable to use or receive notifications for geolocation or geofences."
   },
   {
     "Name": "MapsBroker",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "URL": "https://docs.microsoft.com/en-us/uwp/api/Windows.Services.Maps?view=winrt-19041",
     "Description": "Downloaded maps manager. Windows service for application access to downloaded maps."
   },
@@ -74,7 +74,7 @@
   },
   {
     "Name": "SysMain",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "Description": "Maintains and improves system performance over time."
   },
   {
@@ -85,12 +85,12 @@
   },
   {
     "Name": "WdiSystemHost",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "Description": "Diagnostic System Host service. The Diagnostic System Host is used by the Diagnostic Policy Service to host diagnostics that need to run in a Local System context.  If this service is stopped, any diagnostics that depend on it will no longer function."
   },
   {
     "Name": "WerSvc",
-    "VDIState": "Disabled",
+    "VDIState": "Unchanged",
     "URL": "https://docs.microsoft.com/en-us/windows/win32/wer/windows-error-reporting",
     "Description": "Windows Error Reporting Service allows errors to be reported when programs stop working or responding and allows existing solutions to be delivered. Also allows logs to be generated for diagnostic and repair services."
   },
